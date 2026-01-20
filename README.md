@@ -1,5 +1,8 @@
 ![DL Count](https://img.shields.io/github/downloads/turtle-insect/BravelyDefault2/total.svg)
 
+# recommendation
+https://github.com/turtle-insect/GvasViewer
+
 # BravelyDefault2
 Switch BravelyDefault2 SaveDate Editor
 
